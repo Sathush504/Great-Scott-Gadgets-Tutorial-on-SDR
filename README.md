@@ -9,6 +9,7 @@ This repository contains a **GNU Radio Companion (GRC) flowgraph** from the Grea
 ## Repository Contents
 
 - `sdr_lesson_01.grc` – The GRC flowgraph from the Great Scott Gadgets tutorial
+- `sdr_lesson_01.py` – Python file from the Great Scott Gadgets tutorial
 - `README.md` – This file
 
 ---
